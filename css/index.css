@@ -1,0 +1,18 @@
+body{
+  font-size: 130%;
+}
+
+.myButton{
+  margin: 1vh 0.5vw;
+  padding: 0.5vh 0.5vw;
+}
+
+
+
+#sleep{
+  background-color: black;
+  color: #30fa30;
+  width: 80vw
+  margin: 5vh auto 0;
+
+}
